@@ -1,12 +1,3 @@
-/* =======================================================================
-   PHARMACY MANAGEMENT SYSTEM
-   SE 133 - Software Development Capstone Project
-   Shoaib Malik, Batch 45, Section J2
-   Daffodil International University
-
-   Built with: structures, arrays, functions, string handling, file I/O
-   ======================================================================= */
-
 #include <windows.h>
 #include <stdio.h>
 #include <stdlib.h>
